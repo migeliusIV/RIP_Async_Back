@@ -1,4 +1,7 @@
-# Репозитарии
+# Тема
+Данный репозитарий содержит асинхронный Django-бэкенд сервиса.
+
+### Репозитарии
 1. https://github.com/migeliusIV/RIP_backend - бэкенд на Go
 2. https://github.com/migeliusIV/RIP_front_IBM_QCaaS - фронтенд
 3. https://github.com/migeliusIV/RIP_Async_Back - асинхронный бэкенд на Django
